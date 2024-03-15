@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Çalışkan</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">I'm a computer engineering student</h3>
 
 - 🔭 I’m currently working on [Personal Agenda](https://github.com/TarikEren/BMB306-Proje)
 
