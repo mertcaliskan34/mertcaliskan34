@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertcaliskan34&show_icons=true&locale=en" alt="mertcaliskan34" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=mertcaliskan34&](https://github-readme-streak-stats.herokuapp.com/?user=mertcaliskan34&theme=algolia&hide_border=false)" alt="mertcaliskan34" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertcaliskan34&theme=algolia&hide_border=false" alt="mertcaliskan34" /></p>
