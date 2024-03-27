@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertcaliskan34" alt="mertcaliskan34" /></a> </p>
 
-- 🔭 I’m currently working on [BMB306-Proje](https://github.com/TarikEren/BMB306-Proje)
+- 🔭 I’m currently working on: [BMB306-Proje](https://github.com/TarikEren/BMB306-Proje)
 
-- 🌱 I’m currently learning **Web3, Motoko, JavaScript, React.js, Node.js**
+- 🌱 I’m currently learning: **Web3, Motoko, JavaScript, React.js, Node.js**
 
-- 💬 Ask me about **C, Python**
+- 💬 Ask me about: **C, Python**
 
-- 📫 How to reach me **mert_caliskan34@hotmail.com**
+- 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
-- ⚡ Fun fact **I love laughing at silly jokes & videos 🤠**
+- ⚡ Fun fact about me: **I love laughing at silly jokes & videos 🤠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
