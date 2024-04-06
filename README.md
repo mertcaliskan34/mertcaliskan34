@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: [BMB306-Proje](https://github.com/TarikEren/BMB306-Proje)
 
-- 🌱 I’m currently learning: **Web3, Motoko, JavaScript, React.js, Node.js**
+- 🌱 I’m currently learning: **Web3, JavaScript, React.js, Node.js**
 
 - 💬 Ask me about: **C, Python**
 
