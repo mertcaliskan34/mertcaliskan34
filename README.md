@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: [BMB306-Proje](https://github.com/TarikEren/BMB306-Proje)
 
-- 🌱 I’m currently learning: **Kotlin, Android Studio**
+- 🌱 I’m currently learning: **C#, Java**
 
 - 💬 Ask me about: **C, Python**
 
