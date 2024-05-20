@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertcaliskan34&label=Profile%20views&color=0e75b6&style=flat" alt="mertcaliskan34" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertcaliskan34" alt="mertcaliskan34" /></a> </p>
-
 - 🔭 I’m currently working on: [BMB306-Proje](https://github.com/TarikEren/BMB306-Proje)
 
 - 🌱 I’m currently learning: **C#, Java**
