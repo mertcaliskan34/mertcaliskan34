@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">I'm a Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertcaliskan34&label=Profile%20views&color=0e75b6&style=flat" alt="mertcaliskan34" /> </p>
-
 - 🔭 I’m currently working on: [BMB306-Proje](https://github.com/TarikEren/BMB306-Proje)
 
 - 🌱 I’m currently learning: **C#, Java**
