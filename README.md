@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">I'm a Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on: [BMB306-Proje](https://github.com/TarikEren/BMB306-Proje)
+- 🔭 I’m currently working on: **NA**
 
 - 🌱 I’m currently learning: **C#, Java**
 
