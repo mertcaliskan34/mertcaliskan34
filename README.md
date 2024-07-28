@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **NA**
 
-- 🌱 I’m currently learning: **C#, Java**
+- 🌱 I’m currently learning: **C#, Java, React Native, JavaScript**
 
 - 💬 Ask me about: **C, Python**
 
