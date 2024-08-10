@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">I'm a Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on: **NA**
+- 🔭 I’m currently working on: **CRM Project**
 
-- 🌱 I’m currently learning: **C#, Java, React Native, JavaScript**
+- 🌱 I’m currently learning: **C#, Java, React Native**
 
-- 💬 Ask me about: **C, Python**
+- 💬 Ask me about: **C, Python, Javascript**
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
