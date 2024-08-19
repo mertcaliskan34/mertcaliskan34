@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **CRM Project**
 
-- 🌱 I’m currently learning: **C#, Java, React Native**
+- 🌱 I’m currently learning: **C#, Java, React Native, MS SQL Server**
 
 - 💬 Ask me about: **C, Python, Javascript**
 
