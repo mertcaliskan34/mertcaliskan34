@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on: **CRM Project**
 
-- 🌱 I’m currently learning: **C#, Java, React Native, MS SQL Server**
+- 🌱 I’m currently learning: **C#, Java, Django**
 
-- 💬 Ask me about: **C, Python, Javascript**
+- 💬 Ask me about: **C, Python, HTML, CSS, Javascript**
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
