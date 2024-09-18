@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **C#, Java, React, MS SQL Server, Django**
 
-- 💬 Ask me about: **C, Python, HTML, CSS, Javascript**
+- 💬 Ask me about: **C, Python, HTML, CSS, Bootstrap, Javascript**
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
