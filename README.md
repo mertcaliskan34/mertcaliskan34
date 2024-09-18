@@ -9,12 +9,6 @@
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mertcaliskan34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertcaliskan34" height="30" width="40" /></a>
-<a href="https://instagram.com/mertcaliskan34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertcaliskan34" height="30" width="40" /></a>
-</p>
-
 <p style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcaliskan34&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="mertcaliskan34" />
 </p>
