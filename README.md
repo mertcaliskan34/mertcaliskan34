@@ -9,6 +9,7 @@
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
+<br>
 <p style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcaliskan34&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="mertcaliskan34" />
 </p>
