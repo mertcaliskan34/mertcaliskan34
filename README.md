@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">I'm a Computer Engineering Student</h3>
+<hr>
 
 - 🔭 I’m currently working on: **CRM Project**
 
