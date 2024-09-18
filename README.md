@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">I'm a Computer Engineering Student</h3>
+<h1 align="center"> Hi 👋, I'm Mert </h1>
+<h3 align="center"> I'm a Computer Engineering Student </h3>
 <hr>
 
 - 🔭 I’m currently working on: **CRM Project**
@@ -13,7 +13,6 @@
 <br>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcaliskan34&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="mertcaliskan34" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mertcaliskan34&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="mertcaliskan34" style="float: right;" />
 </p>
 
 <p>
