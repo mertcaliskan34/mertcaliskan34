@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: **CRM Project**
 
-- 🌱 I’m currently learning: **C#, Java, Django**
+- 🌱 I’m currently learning: **C#, Java, React, MS SQL Server, Django**
 
 - 💬 Ask me about: **C, Python, HTML, CSS, Javascript**
 
