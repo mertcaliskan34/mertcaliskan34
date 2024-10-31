@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: **Lisans Bitirme Projesi**
 
-- 🌱 I’m currently learning: **C#, Java, React, React Native**
+- 🌱 I’m currently learning: **React, Laravel**
 
 - 💬 Ask me about: **C, Python, Django, HTML, CSS, Bootstrap, Javascript**
 
