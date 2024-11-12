@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **React**
 
-- 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, Laravel**
+- 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, Laravel, SQLite3, MySQL**
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
