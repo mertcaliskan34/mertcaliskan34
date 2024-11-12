@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on: **Lisans Bitirme Projesi**
 
-- 🌱 I’m currently learning: **React, Laravel**
+- 🌱 I’m currently learning: **React**
 
-- 💬 Ask me about: **C, Python, Django, HTML, CSS, Bootstrap, Javascript**
+- 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, Laravel**
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
