@@ -2,7 +2,7 @@
 <h3 align="center"> I'm a Computer Engineering Student </h3>
 <br>
 
-- 🔭 I’m currently working on: **Lisans Bitirme Projesi & HRMS Project**
+- 🔭 I’m currently working on: **Otomatik E-posta Botu & HRMS Project**
 
 - 🌱 I’m currently learning: **React**
 
