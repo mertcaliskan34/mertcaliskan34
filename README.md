@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: **Otomatik E-posta Botu & HRMS Project**
 
-- 🌱 I’m currently learning: **React**
+- 🌱 I’m currently learning: **Flutter, Machine Learning, Data Analysis**
 
 - 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, Laravel, SQLite3, MySQL**
 
