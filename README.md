@@ -2,11 +2,11 @@
 <h3 align="center"> I'm a Computer Engineering Student </h3>
 <br>
 
-- 🔭 I’m currently working on: **Otomatik E-posta Botu & HRMS Project**
+- 🔭 I’m currently working on: **HRMS Project**
 
-- 🌱 I’m currently learning: **Flutter, Machine Learning, Data Analysis**
+- 🌱 I’m currently learning: **Flutter, Machine Learning, Generative AI**
 
-- 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, Laravel, SQLite3, MySQL**
+- 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, SQLite3**
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
