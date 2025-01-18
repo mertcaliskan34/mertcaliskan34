@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **Flutter, Machine Learning, Generative AI**
 
-- 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, SQLite3**
+- 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, SQLite3, MySQL**
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
