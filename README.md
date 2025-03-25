@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Mert </h1>
-<h3 align="center"> I'm a 4th year computer engineering student </h3>
+<h3 align="center"> I'm a 4th year Computer Engineering student. </h3>
 <br>
 
 - 🔭 I’m currently working on: **HRMS Project, TaskTrack, ChessNews**
