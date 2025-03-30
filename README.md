@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: **HRMS Project, TaskTrack, ChessNews**
 
-- 🌱 I’m currently learning: **Digital Image Processing, Web Technologies, Laravel, PHP**
+- 🌱 I’m currently learning: **Digital Image Processing, Laravel, PHP, React, Typescript**
 
 - 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, SQLite3, MySQL**
 
