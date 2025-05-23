@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on: **TaskTrack, ChessNews**
 
-- 🌱 I’m currently learning: **Digital Image Processing, Laravel, PHP, React, Typescript**
+- 🌱 I’m currently learning: **Flutter, Firebase, React, Typescript, MongoDB**
 
-- 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, SQLite3, MySQL**
+- 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, SQLite3, MySQL, Laravel, PHP**
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
