@@ -2,9 +2,9 @@
 <h3 align="center"> I'm a Software Tester </h3>
 <br>
 
-- 🔭 I’m currently working on: **TaskTrack, ChessNews**
+- 🔭 I’m currently working on: **ChessNews**
 
-- 🌱 I’m currently learning: **Flutter, Firebase, React, Typescript, MongoDB**
+- 🌱 I’m currently learning: **Flutter, Firebase, React, Typescript, MongoDB, Web3**
 
 - 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, SQLite3, MySQL, Laravel, PHP**
 
