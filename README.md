@@ -2,7 +2,7 @@
 <h3 align="center"> Software Test Engineer in Skyrock Tech. </h3>
 <br>
 
-- 🔭 I’m currently working on: **ChessNews**
+- 🔭 I’m currently working on: **Team Projects**
 
 - 🌱 I’m currently learning: **Flutter, Firebase, React, Typescript, MongoDB, Web3**
 
