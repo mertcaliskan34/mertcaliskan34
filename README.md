@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: **Team Projects**
 
-- 🌱 I’m currently learning: **Flutter, Firebase, React, Typescript, MongoDB, Web3**
+- 🌱 I’m currently learning: **Flutter, Firebase, React, Typescript, Web3**
 
 - 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, SQLite3, MySQL, Laravel, PHP**
 
