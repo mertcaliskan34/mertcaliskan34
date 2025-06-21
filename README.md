@@ -1,5 +1,5 @@
-<h1 align="center"> Hi 👋, I'm Mert </h1>
-<h3 align="center"> I'm a Software Tester in Skyrock Tech. </h3>
+<h1 align="center"> Mert Çalışkan </h1>
+<h3 align="center"> Software Test Engineer in Skyrock Tech. </h3>
 <br>
 
 - 🔭 I’m currently working on: **ChessNews**
