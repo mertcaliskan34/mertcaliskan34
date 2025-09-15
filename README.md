@@ -1,12 +1,10 @@
 <h1 align="center"> Mert Çalışkan </h1>
-<h3 align="center"> Software Test Engineer in Skyrock Tech. </h3>
+<h3 align="center"> Software Engineer in Skyrock Tech. </h3>
 <br>
 
-- 🔭 I’m currently working on: **Team Projects**
+- 🔭 I’m currently working on: **React Native Mobile Application**
 
-- 🌱 I’m currently learning: **Flutter, Firebase, React, Typescript, Web3**
-
-- 💬 Ask me about: **C, Python, Django, HTML, CSS, Javascript, Bootstrap, SQLite3, MySQL, Laravel, PHP**
+- 🌱 I’m currently learning: **React Native, Supabase, PostgreSQL, Expo EAS**
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
