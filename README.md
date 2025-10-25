@@ -2,7 +2,7 @@
 <h3 align="center"> Software Engineer in Skyrock Tech. </h3>
 <br>
 
-- 🔭 I’m currently working on: **React Native Mobile Application**
+- 🔭 I’m currently working on: **React Native Mobile Application & Software Testing Processes**
 
 - 🌱 I’m currently learning: **React Native, Supabase, PostgreSQL, Expo EAS**
 
