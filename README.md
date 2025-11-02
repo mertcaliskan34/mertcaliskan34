@@ -1,5 +1,5 @@
 <h1 align="center"> Mert Çalışkan </h1>
-<h3 align="center"> Software Engineer in Skyrock Tech. </h3>
+<h3 align="center"> QA Engineer & Mobile Developer in Skyrock Tech. </h3>
 <br>
 
 - 🔭 I’m currently working on: **React Native Mobile Application & Software Testing Processes**
