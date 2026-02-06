@@ -2,9 +2,9 @@
 <h3 align="center"> QA Engineer | Software Developer </h3>
 <br>
 
-- 🔭 I’m currently working on: **React Native Mobile Application & Software Testing Processes**
+- 🔭 I’m currently working on: **Software Testing Processes & Test Automation**
 
-- 🌱 I’m currently learning: **React Native, Supabase, PostgreSQL, Expo EAS**
+- 🌱 I’m currently learning: **Jenkins, Docker, Playwright, Selenium**
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
