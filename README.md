@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: **Software Testing Processes & Mobile Applications**
 
-- 🌱 I’m currently learning: **Jenkins, Docker, Playwright, Selenium**
+- 🌱 I’m currently learning: **AI Agents, Docker, Playwright, Automation Tools**
 
 - 📫 How to reach me: **mert_caliskan34@hotmail.com**
 
