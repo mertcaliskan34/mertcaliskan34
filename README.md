@@ -2,7 +2,7 @@
 <h3 align="center"> QA Engineer | Software Developer </h3>
 <br>
 
-- 🔭 I’m currently working on: **Software Testing Processes & Test Automation**
+- 🔭 I’m currently working on: **Software Testing Processes & Mobile Applications**
 
 - 🌱 I’m currently learning: **Jenkins, Docker, Playwright, Selenium**
 
